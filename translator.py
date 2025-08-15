@@ -1,5 +1,5 @@
 # Install necessary libraries
-!pip3 install portaudio19-dev python3-pyaudio
+sudo apt install portaudio19-dev python3-pyaudio
 !pip3 install SpeechRecognition googletrans==4.0.0-rc1 gTTS playsound
 
 
